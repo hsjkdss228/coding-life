@@ -1,0 +1,21 @@
+{
+  "name": "20230127",
+  "version": "1.0.0",
+  "description": "jQuery",
+  "scripts": {
+    "start": "parcel index.html --port 8080"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.32.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  },
+  "dependencies": {
+    "eslint-plugin-jquery": "^1.5.1",
+    "jquery": "^3.6.3",
+    "parcel": "^2.8.3"
+  }
+}
