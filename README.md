@@ -1,3 +1,1 @@
-# CodingLife
-
-실험실  
+# Tech Studies
