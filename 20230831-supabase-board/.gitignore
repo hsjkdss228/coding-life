@@ -1,0 +1,9 @@
+# Supabase
+.branches
+.temp
+
+# deno
+deno.lock
+
+# env
+.env
